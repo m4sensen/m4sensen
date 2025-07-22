@@ -15,24 +15,24 @@
 
 I am Masensen,
 
-Ghost in the shell — mind on the code 👻🧠<br>
-Code in my veins, I commit with no shame 💻🩸<br>
-Pushin' to main, never playin' it tame 🚀🛠️<br>
-Open-source flame, yeah, I’m buildin’ my name 🔥🧱<br>
+Ghost in the shell — mind on the code 👻🧠
+Code in my veins, I commit with no shame 💻🩸
+Pushin' to main, never playin' it tame 🚀🛠️
+Open-source flame, yeah, I’m buildin’ my name 🔥🧱
 
-From the CLI to the UI flow 🖥️➡️🎨<br>
-I debug fast, never movin’ slow ⚡🐛<br>
-Scripts tight, deploy in flight 📜✈️<br>
-Turn dark nights into pixel light 🌙🖼️<br>
+From the CLI to the UI flow 🖥️➡️🎨
+I debug fast, never movin’ slow ⚡🐛
+Scripts tight, deploy in flight 📜✈️
+Turn dark nights into pixel light 🌙🖼️
 
-Not just a coder, I architect 🧠📐<br>
-Every tag, every line, full effect 🏷️💯<br>
-This ain’t just work — it’s what I breathe 🌬️🔧<br>
-You bring the specs — I bring the heat. 💥📊<br>
+Not just a coder, I architect 🧠📐
+Every tag, every line, full effect 🏷️💯
+This ain’t just work — it’s what I breathe 🌬️🔧
+You bring the specs — I bring the heat. 💥📊
 
-Silent in shadows — loud in the game 🎮🕶️<br>
-Add, commit, push, repeat — I run the domain 🌐🧩<br>
-No need to explain — my repos bring flame 🔥📁<br>
+Silent in shadows — loud in the game 🎮🕶️
+Add, commit, push, repeat — I run the domain 🌐🧩
+No need to explain — my repos bring flame 🔥📁
 ```
 
 ## 🔧 Technologies
