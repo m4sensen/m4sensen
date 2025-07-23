@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Masensen (💻🐧❤️‍🔥) [![buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%9D%A4-%237b3fe4.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://www.buymeacoffee.com/m4sensen)
 
+## 🎤 Mic Check :
 
 <!-- markdownlint-disable MD033 -->
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount&pause=1000&color=00C950&background=000000&vCenter=true&width=435&lines=%E2%80%8A+++~%24+Hi%2C+I'm+Masensen.;%E2%80%8A+++~%24+Btw%2C+I+use+Arch+Linux.;%E2%80%8A+++~%24+No+GUI%3F+No+problem.;%E2%80%8A+++~%24+Build.+Break.+Rebuild.;%E2%80%8A+++~%24+Before+the+shell+blinks%2C+I+am." style="min-width: 300px; max-width: 600px; width: 60%; padding-left: ; border-radius: 10px;" alt="Typing SVG" /></a>
-
 <!-- markdownlint-enable MD033 -->
 
-## Introduction :
+## 🎤 Mic Pick-up :
 ``` dart
 
 I am Masensen,
@@ -32,11 +31,9 @@ Add, commit, push, repeat — I run the domain 🌐🧩
 No need to explain — my repos bring flame 🔥📁
 ```
 
-## 🔧 Technologies
+## 🧑 profile:
 
-![skills](https://skillicons.dev/icons?i=mastodon,vscode,vscodium,html,css,js,nodejs,npm,git,github,react,nextjs,ts,tailwindcss,firebase,postman,mongodb,md,obsidian,linux,ubuntu,arch,bash,vim,py,docker,kubernetes,dart,flutter&theme=light)
-
-
+![Masensen's Card](https://masensen-api.app/api/masensenNeofetchCard)
 
 ## ☕ Support My Work
 
