@@ -33,7 +33,7 @@ No need to explain — my repos bring flame 🔥📁
 
 ## 🧑 profile:
 
-![Masensen's Card](https://masensen-api.app/api/masensenNeofetchCard)
+![Masensen's Card](https://masensen-api.vercel.app/api/masensenNeofetchCard)
 
 ## ☕ Support My Work
 
