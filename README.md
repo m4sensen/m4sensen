@@ -3,7 +3,7 @@
 ## 🎤 Mic Check :
 
 <!-- markdownlint-disable MD033 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount&pause=1000&color=00C950&background=000000&vCenter=true&width=435&lines=%E2%80%8A+++~%24+Hi%2C+I'm+Masensen.;%E2%80%8A+++~%24+Btw%2C+I+use+Arch+Linux.;%E2%80%8A+++~%24+No+GUI%3F+No+problem.;%E2%80%8A+++~%24+Build.+Break.+Rebuild.;%E2%80%8A+++~%24+Before+the+shell+blinks%2C+I+am." style="min-width: 300px; max-width: 600px; width: 60%; padding-left: ; border-radius: 10px;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount&pause=1000&color=00C950&background=000000&vCenter=true&width=435&lines=%E2%80%8A+++~%24+Hi%2C+I'm+Masensen.;%E2%80%8A+++~%24+Btw%2C+I+use+Arch+Linux.;%E2%80%8A+++~%24+No+GUI%3F+No+problem.;%E2%80%8A+++~%24+Build.+Break.+Rebuild.;%E2%80%8A+++~%24+Before+the+shell+blinks%2C+I+am." style="width:100%; border-radius: 10px;" alt="Typing SVG" /></a>
 <!-- markdownlint-enable MD033 -->
 
 ## 🎤 Mic Pick-up :
