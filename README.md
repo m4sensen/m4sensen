@@ -4,7 +4,7 @@
 
 <!-- markdownlint-disable MD033 -->
 
-![Typing SVG](/src/01.svg)
+![Typing SVG](/assets/01.svg)
 
 <!-- markdownlint-enable MD033 -->
 
@@ -50,6 +50,6 @@ No need to explain — my repos bring flame 🔥📁
 <div align="center">
 <br />
 
-![Masensen's barcode](/src/02.svg)
+![Masensen's barcode](/assets/02.svg)
 
 </div>
